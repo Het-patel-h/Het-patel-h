@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Het Patel
 
-<!--
-**Het-patel-h/Het-patel-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a high school student in India preparing for Computer Science undergraduate programs abroad (NUS, NTU, etc.)
 
-Here are some ideas to get you started:
+💻 I'm currently learning:
+- CS50 (Harvard's Intro to Computer Science)
+- Web Development & Python
+- Problem Solving & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects coming soon:
+- CS50 Assignments
+- Web Apps using HTML/CSS/JavaScript
+- Python Tools & Scripts
+
+📫 Let's connect on [LinkedIn](#) 
+
+⚡ Fun fact: I love building things that actually **work** — not just theory!
