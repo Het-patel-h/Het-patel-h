@@ -14,4 +14,3 @@
 
 📫 Let's connect on [LinkedIn](#) 
 
-⚡ Fun fact: I love building things that actually **work** — not just theory!
